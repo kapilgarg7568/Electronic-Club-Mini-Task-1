@@ -82,7 +82,7 @@ Raspberry Pi Weather Station:--> it monitors temperature, pressure and humidity 
 
 BM180 sensor: its a low-cost sensing solution for measuring barometric pressure. The sensor is soldered onto a PCB with a 3.3V regulator, I2C level shifter and pull-up resistors on the I2C pins.
 
-difference in I2C and 1-wire protocol: I2C protocol: Shorter distance,Much faster, Multi-master. I2C devices will have 4 wires (GND & power plus SCK clock & SDA data). 1-wire protocol: Longer distance, Slower, Strictly master-slave. it can get by with only 2 (data and GND) if the devices are powered in parasitic mode, meaning they draw power from the data line; alternatively they need GND, power & data.
+difference in I2C and 1-wire protocol: I2C protocol: Shorter distance,Much faster, Multi-master. I2C devices will have 4 wires (GND & power plus SCK clock & SDA data). 1-wire protocol: Longer distance, Slower, Strictly master-slave. it can get by with only 2 (data and GND) if the devices are powered in parasitic mode, meaning they draw power from the data line; alternatively they need GND, power and data.
 
 
 
