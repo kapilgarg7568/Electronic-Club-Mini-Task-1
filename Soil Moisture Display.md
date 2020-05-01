@@ -6,3 +6,7 @@ It consists of two parts: The main Sensor and the Control Board. Sensor part of 
 
 ###### ***LM393 IC***
 The LM393 is a dual differential comparator. that means that it accepts 2 inputs for comparison.It compares these voltage inputs and determines which is the larger value. Based on this, electronic decisions can be made based on which input is greater and which is smaller.
+
+###### ***single digit seven segment display***
+A seven-segment display is a form of electronic display device for displaying decimal numerals that is an alternative to the more complex dot matrix displays.
+Seven-segment displays are widely used in digital clocks, electronic meters, basic calculators, and other electronic devices that display numerical information.
