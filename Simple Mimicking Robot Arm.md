@@ -16,7 +16,8 @@ we are making here an extra jaw for mimicking arm so that it can also lift some 
 
 Now we will make all the connection with the help of Robot Shield. 
 
-Circuit diagram for Robot Shield circuit:
+Circuit diagram for Robot Shield circuit:https://user-images.githubusercontent.com/64272528/80781765-3d1c3900-8b91-11ea-9191-fca56484ec50.jpeg
 
-Now its time to code so for that we have to upload the code to Arduino using USB cable.
+Now its time to code so for that we have to upload the code to Arduino using USB cable and once coding part is done connect it to the battery and it works fine.
+As you will move the potentiometer arm, the servo arm will mimick this and will move in the same way.
 
