@@ -2,6 +2,7 @@
 This is a cheap and easy portable meatal detector using a coil and 555 timer circuit. It uses a green led for signalling and alert us by an alarm sound.
 
 ###### ***Components Required***
+'''
 NE555
 1mH coil (I've reduced the value from 10mH to save some copper assembling my own coil, because less inductance => less wire spins)
 2.2uF electrolyte Capacitors
@@ -14,6 +15,7 @@ pressure button switch SPST NO
 green LED
 330R resistor
 10K potentiometer
+'''
 
 first we have to make a coil using copper wire that can be done with the help of any round box of required diameter.
 here we are using an extra led for signalling in the 555 timerand a potentiometer to adjust the volume of the sound in speaker.
