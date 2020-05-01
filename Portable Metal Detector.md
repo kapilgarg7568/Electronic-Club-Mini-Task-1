@@ -11,7 +11,7 @@ This is a cheap and easy portable meatal detector using a coil and 555 timer cir
 - pressure button switch SPST NO
 - 9V battery
 
- ***Optional components***
+###### ***Optional components***
 - green LED
 - 330R resistor
 - 10K potentiometer
