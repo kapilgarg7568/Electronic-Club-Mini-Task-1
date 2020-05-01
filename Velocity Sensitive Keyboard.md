@@ -19,6 +19,7 @@ first we have to make Piano keys and Piano base by cutting cardboard with proper
 Then for the circuit part first we have to cut PCB (as we are using SMD sensor) and put the IR sensors on them and then after wiring thsese piano keys to the arduino we have to upload the program to Arduino and once we connect the battery its ready to use.
 
 ***The Arduino Mega***
+
 it is a microcontroller board based on the ATmega2560. It has 54 digital input/output pins (of which 14 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started.
 
 find[ Project Image ](https://user-images.githubusercontent.com/64272528/80779343-02ae9e00-8b89-11ea-8ee9-6fe83e3ee25d.jpeg) here.
