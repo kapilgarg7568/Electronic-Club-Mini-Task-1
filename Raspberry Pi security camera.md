@@ -1,4 +1,4 @@
-#**Raspberry Pi security camera** 
+# **Raspberry Pi security camera** 
 its a motion activated security camera using Raspberry Pi in which you can record time and take a picture that will be saved locally. We can contrl it remotely by accessing the webpage using ip address.
 
 ***Pi camera:***
